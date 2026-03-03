@@ -1,0 +1,10 @@
+pandas
+openpyxl
+matplotlib
+jupyter
+ipykernel
+ipywidgets
+yfinance
+rapidfuzz
+requests
+beautifulsoup4
